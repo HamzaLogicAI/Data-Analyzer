@@ -20,7 +20,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h1 class='title'><img width='64px',height='64', src='https://cdn-icons-png.freepik.com/512/5341/5341076.png?uid=R140683934&ga=GA1.1.2115474961.1709795892&'> Data Analyzer</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='title'><img width='64px',height='64', src='https://cdn-icons-png.freepik.com/512/5341/5341076.png?uid=R140683934&ga=GA1.1.2115474961.1709795892&'> Data Analyzer Web App</h1>", unsafe_allow_html=True)
 st.markdown("<h3 class='subheader'>Decode your business's success with actionable insights...</h3>",unsafe_allow_html=True)
 
 ### Upload the Dataset
