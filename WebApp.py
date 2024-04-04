@@ -5,6 +5,7 @@ import streamlit as st
 import pandas as pd
 
 ### Title & Subheader
+st.set_page_config(page_title="Data Analyzer")
 st.markdown("""
     <style>
         .title {
